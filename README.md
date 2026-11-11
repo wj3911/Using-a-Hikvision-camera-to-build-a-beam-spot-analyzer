@@ -1,0 +1,1 @@
+# Using-a-Hikvision-camera-to-build-a-beam-spot-analyzer
